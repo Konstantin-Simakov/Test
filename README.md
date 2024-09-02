@@ -1,1 +1,1 @@
-# This file only for Test repository.
+# But this README file only for Dev branch.
